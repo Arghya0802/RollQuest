@@ -31,7 +31,7 @@ class _DiceRollerState extends State<DiceRoller> {
           width: 200,
         ),
         const SizedBox(
-          height: 20,
+          height: 30,
         ),
         TextButton(
           onPressed: rollDice,
